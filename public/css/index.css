@@ -1,4 +1,5 @@
 .task1 .item {
+  font-size: inherit;
 }
 
 .task2 .item {
